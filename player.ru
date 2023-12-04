@@ -1,4 +1,3 @@
-# Code
 on load do
 	r_thresh = 10
 	l_thresh = -10
